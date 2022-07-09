@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { ProjectList } from "../helpers/ProjectList";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import "../styles/ProjectDisplay.css";
+import Button from '@mui/material/Button';
 
 function ProjectDisplay() {
   const { id } = useParams();
@@ -14,7 +15,8 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
       </p>
-      <GitHubIcon />
+      <a href={project.link}  target="_blank" rel="noreferrer"><Button variant="contained">Check Out Site</Button></a>
+      
     </div>
   );
 }
