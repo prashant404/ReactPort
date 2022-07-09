@@ -22,7 +22,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, My Name is Prashant</h2>
+        <h2> Hi, My Name is Prashant Kumar</h2>
         <div className="prompt">
           <p>A software developer with a passion for learning and creating.</p>
          <a href="https://www.linkedin.com/in/codeher0225/" target="_blank" rel="noreferrer"><LinkedInIcon /></a> 
