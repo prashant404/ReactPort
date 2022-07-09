@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prashant404/ReactPort/src/pages/Home.jsx/static/css/main.4ee75d5a.css",
+    "main.js": "/prashant404/ReactPort/src/pages/Home.jsx/static/js/main.e85b0f5c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/prashant404/ReactPort/src/pages/Home.jsx/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/Resume.6599fa00701a53213148.pdf",
+    "static/media/logo.jpg": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/logo.457f53f992a728f2e26d.jpg",
+    "static/media/proj2.jpg": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/proj2.0646a5aba9b5e7873332.jpg",
+    "static/media/proj1.jpg": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/proj1.0a5679aca77d32ccca5d.jpg",
+    "static/media/proj3.webp": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/proj3.54d5db7377813a171082.webp",
+    "static/media/proj5.jpg": "/prashant404/ReactPort/src/pages/Home.jsx/static/media/proj5.635c555ed0879b416a50.jpg",
+    "index.html": "/prashant404/ReactPort/src/pages/Home.jsx/index.html",
+    "main.4ee75d5a.css.map": "/prashant404/ReactPort/src/pages/Home.jsx/static/css/main.4ee75d5a.css.map",
+    "main.e85b0f5c.js.map": "/prashant404/ReactPort/src/pages/Home.jsx/static/js/main.e85b0f5c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/prashant404/ReactPort/src/pages/Home.jsx/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee75d5a.css",
+    "static/js/main.e85b0f5c.js"
+  ]
+}
